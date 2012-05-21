@@ -1,0 +1,32 @@
+﻿<Window x:Class="EggPlantGUI.AboutDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About Eggplant" Height="455" Width="418" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Image Source="/EggPlantGUI;component/Images/egg%20plant%20copy.png" Height="244" VerticalAlignment="Top"></Image>
+        <Label Grid.Row="2" Height="56" VerticalAlignment="Top" Margin="0,0,226,0" Width="185" FontSize="36" Grid.RowSpan="5" FontWeight="Bold">Eggplant </Label>
+        <Label Grid.Row="6" Height="30" VerticalAlignment="Top" Margin="0,62,47,0" Width="364">Version: 0.01  </Label>
+        <Label Grid.Row="6" Height="30" VerticalAlignment="Top" Margin="195,62,78,0" Width="138" FontSize="14" FontWeight="Bold">Developers</Label>
+        <Label Grid.Row="6" Height="30" VerticalAlignment="Top" Margin="195,62,78,0" Width="138"></Label>
+        <Label Content="Md. Rezaur Rahman " Grid.Row="6" Height="26" HorizontalAlignment="Left" Margin="195,89,0,0" Name="label1" VerticalAlignment="Top" Width="146" />
+        <Label Content="Project URL" Grid.Row="6" Height="28" HorizontalAlignment="Left" Margin="0,105,0,0" Name="label2" VerticalAlignment="Top" Width="78" />
+        <Label Content="Md. Maksud Hossain" Grid.Row="6" Height="28" HorizontalAlignment="Left" Margin="195,113,0,0" Name="label3" VerticalAlignment="Top" Width="138" />
+        <Label Content="Touhidul Islam Moulik (Design) " Grid.Row="6" Height="24" HorizontalAlignment="Left" Margin="195,136,0,0" Name="label4" VerticalAlignment="Top" Width="178" />
+        <Label Content="http://eggplant.codeplex.com" Grid.Row="6" Height="28" HorizontalAlignment="Left" Margin="0,133,0,0" Name="label5" VerticalAlignment="Top" Width="177" />
+    </Grid>
+    
+</Window>

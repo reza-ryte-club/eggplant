@@ -1,0 +1,25 @@
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggplantCore\bin\Debug\EggplantCore.dll
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggplantCore\bin\Debug\EggplantCore.pdb
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggplantCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggplantCore\obj\Debug\EggplantCore.dll
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggplantCore\obj\Debug\EggplantCore.pdb
+D:\EggPlantGUI\EggplantCore\bin\Debug\EggplantCore.dll
+D:\EggPlantGUI\EggplantCore\bin\Debug\EggplantCore.pdb
+D:\EggPlantGUI\EggplantCore\obj\Debug\ResolveAssemblyReference.cache
+D:\EggPlantGUI\EggplantCore\obj\Debug\EggplantCore.dll
+D:\EggPlantGUI\EggplantCore\obj\Debug\EggplantCore.pdb
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggplantCore\bin\Debug\EggplantCore.dll
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggplantCore\bin\Debug\EggplantCore.pdb
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggplantCore\obj\Debug\ResolveAssemblyReference.cache
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggplantCore\obj\Debug\EggplantCore.dll
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggplantCore\obj\Debug\EggplantCore.pdb
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggplantCore\bin\Debug\EggplantCore.dll
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggplantCore\bin\Debug\EggplantCore.pdb
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggplantCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggplantCore\obj\Debug\EggplantCore.dll
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggplantCore\obj\Debug\EggplantCore.pdb
+C:\Users\reza\eggplant\EggplantCore\bin\Debug\EggplantCore.dll
+C:\Users\reza\eggplant\EggplantCore\bin\Debug\EggplantCore.pdb
+C:\Users\reza\eggplant\EggplantCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\reza\eggplant\EggplantCore\obj\Debug\EggplantCore.dll
+C:\Users\reza\eggplant\EggplantCore\obj\Debug\EggplantCore.pdb

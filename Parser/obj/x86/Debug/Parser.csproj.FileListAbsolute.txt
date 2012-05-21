@@ -1,0 +1,10 @@
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\Parser\bin\Debug\Parser.dll
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\Parser\bin\Debug\Parser.pdb
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\Parser\obj\x86\Debug\Parser.dll
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\Parser\obj\x86\Debug\Parser.pdb
+C:\Users\reza\eggplant\Parser\bin\Debug\Parser.dll
+C:\Users\reza\eggplant\Parser\bin\Debug\Parser.pdb
+C:\Users\reza\eggplant\Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\reza\eggplant\Parser\obj\x86\Debug\Parser.dll
+C:\Users\reza\eggplant\Parser\obj\x86\Debug\Parser.pdb

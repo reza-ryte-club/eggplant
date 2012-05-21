@@ -1,0 +1,159 @@
+C:\Users\sajol\AppData\Local\Temporary Projects\EggPlantGUI\bin\Debug\EggPlantGUI.exe
+C:\Users\sajol\AppData\Local\Temporary Projects\EggPlantGUI\bin\Debug\EggPlantGUI.pdb
+C:\Users\sajol\AppData\Local\Temporary Projects\EggPlantGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sajol\AppData\Local\Temporary Projects\EggPlantGUI\obj\x86\Debug\MainWindow.baml
+C:\Users\sajol\AppData\Local\Temporary Projects\EggPlantGUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\sajol\AppData\Local\Temporary Projects\EggPlantGUI\obj\x86\Debug\App.g.cs
+C:\Users\sajol\AppData\Local\Temporary Projects\EggPlantGUI\obj\x86\Debug\EggPlantGUI_MarkupCompile.cache
+C:\Users\sajol\AppData\Local\Temporary Projects\EggPlantGUI\obj\x86\Debug\EggPlantGUI.g.resources
+C:\Users\sajol\AppData\Local\Temporary Projects\EggPlantGUI\obj\x86\Debug\EggPlantGUI.Properties.Resources.resources
+C:\Users\sajol\AppData\Local\Temporary Projects\EggPlantGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sajol\AppData\Local\Temporary Projects\EggPlantGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sajol\AppData\Local\Temporary Projects\EggPlantGUI\obj\x86\Debug\EggPlantGUI.exe
+C:\Users\sajol\AppData\Local\Temporary Projects\EggPlantGUI\obj\x86\Debug\EggPlantGUI.pdb
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.exe
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.pdb
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\MainWindow.baml
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\App.g.cs
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI_MarkupCompile.cache
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.g.resources
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.Properties.Resources.resources
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\bin\Debug\EggPlantGUI.exe
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\bin\Debug\EggPlantGUI.pdb
+C:\Users\sajol\documents\visual studio 2010\Projects\EggPlantGUI\EggPlantGUI\bin\Debug\AvalonDock.Themes.dll
+C:\Users\sajol\documents\visual studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\App.baml
+C:\Users\sajol\documents\visual studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\Document.baml
+C:\Users\sajol\documents\visual studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\Document.g.cs
+C:\Users\sajol\documents\visual studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI_MarkupCompile.lref
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\AboutDialog.baml
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\AboutDialog.g.cs
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\Update.baml
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\Update.g.cs
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\bin\Debug\EggPlantGUI.exe.manifest
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\bin\Debug\EggPlantGUI.application
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.exe.manifest
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.application
+C:\Users\sajol\documents\visual studio 2010\Projects\EggPlantGUI\EggPlantGUI\bin\Debug\EggplantCore.dll
+C:\Users\sajol\documents\visual studio 2010\Projects\EggPlantGUI\EggPlantGUI\bin\Debug\EggplantCore.pdb
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.exe
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.pdb
+D:\EggPlantGUI\EggPlantGUI\bin\Debug\EggPlantGUI.exe.manifest
+D:\EggPlantGUI\EggPlantGUI\bin\Debug\EggPlantGUI.application
+D:\EggPlantGUI\EggPlantGUI\bin\Debug\EggPlantGUI.exe
+D:\EggPlantGUI\EggPlantGUI\bin\Debug\EggPlantGUI.pdb
+D:\EggPlantGUI\EggPlantGUI\bin\Debug\EggplantCore.dll
+D:\EggPlantGUI\EggPlantGUI\bin\Debug\EggplantCore.pdb
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\AboutDialog.baml
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\Document.baml
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\Update.baml
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\App.baml
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\AboutDialog.g.cs
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\Document.g.cs
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\MainWindow.g.cs
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\Update.g.cs
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\App.g.cs
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI_MarkupCompile.cache
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI_MarkupCompile.lref
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\MainWindow.baml
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.g.resources
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.Properties.Resources.resources
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.exe.manifest
+D:\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.application
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.exe
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.pdb
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\bin\Debug\EggPlantGUI.exe.manifest
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\bin\Debug\EggPlantGUI.application
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\bin\Debug\EggPlantGUI.exe
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\bin\Debug\EggPlantGUI.pdb
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\bin\Debug\AvalonDock.dll
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\bin\Debug\AvalonDock.Themes.dll
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\bin\Debug\EggplantCore.dll
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\bin\Debug\EggplantCore.pdb
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\AboutDialog.baml
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\Document.baml
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\Update.baml
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\App.baml
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\AboutDialog.g.cs
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\Document.g.cs
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\MainWindow.g.cs
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\Update.g.cs
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\App.g.cs
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI_MarkupCompile.cache
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI_MarkupCompile.lref
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\MainWindow.baml
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.g.resources
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.Properties.Resources.resources
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.exe.manifest
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.application
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\bin\Debug\Parser.dll
+H:\Dropbox\Dropbox\EggplantGUINIrjhor\EggPlantGUI\EggPlantGUI\bin\Debug\Parser.pdb
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.exe
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.pdb
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\bin\Debug\EggPlantGUI.exe.manifest
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\bin\Debug\EggPlantGUI.application
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\bin\Debug\EggPlantGUI.exe
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\bin\Debug\EggPlantGUI.pdb
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\bin\Debug\AvalonDock.dll
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\bin\Debug\AvalonDock.Themes.dll
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\bin\Debug\EggplantCore.dll
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\bin\Debug\Parser.dll
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\bin\Debug\EggplantCore.pdb
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\bin\Debug\Parser.pdb
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\AboutDialog.baml
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\Document.baml
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\Update.baml
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\App.baml
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\AboutDialog.g.cs
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\Document.g.cs
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\Update.g.cs
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\App.g.cs
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI_MarkupCompile.cache
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI_MarkupCompile.lref
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\MainWindow.baml
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.g.resources
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.Properties.Resources.resources
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.exe.manifest
+C:\Users\DextersLab\Downloads\EggPlantGUI (1)\EggPlantGUI\EggPlantGUI\obj\x86\Debug\EggPlantGUI.application
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\EggPlantGUI.exe
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\EggPlantGUI.pdb
+C:\Users\reza\eggplant\EggPlantGUI\bin\Debug\EggPlantGUI.exe.manifest
+C:\Users\reza\eggplant\EggPlantGUI\bin\Debug\EggPlantGUI.application
+C:\Users\reza\eggplant\EggPlantGUI\bin\Debug\EggPlantGUI.exe
+C:\Users\reza\eggplant\EggPlantGUI\bin\Debug\EggPlantGUI.pdb
+C:\Users\reza\eggplant\EggPlantGUI\bin\Debug\EggplantCore.dll
+C:\Users\reza\eggplant\EggPlantGUI\bin\Debug\Parser.dll
+C:\Users\reza\eggplant\EggPlantGUI\bin\Debug\EggplantCore.pdb
+C:\Users\reza\eggplant\EggPlantGUI\bin\Debug\Parser.pdb
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\AboutDialog.baml
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\Document.baml
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\Update.baml
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\App.baml
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\AboutDialog.g.cs
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\Document.g.cs
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\Update.g.cs
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\App.g.cs
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\EggPlantGUI_MarkupCompile.cache
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\EggPlantGUI_MarkupCompile.lref
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\MainWindow.baml
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\EggPlantGUI.g.resources
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\EggPlantGUI.Properties.Resources.resources
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\EggPlantGUI.exe.manifest
+C:\Users\reza\eggplant\EggPlantGUI\obj\x86\Debug\EggPlantGUI.application

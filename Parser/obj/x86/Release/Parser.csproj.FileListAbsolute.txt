@@ -1,0 +1,10 @@
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\Parser\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\Parser\bin\Release\Parser.dll
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\Parser\bin\Release\Parser.pdb
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\Parser\obj\x86\Release\Parser.dll
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\Parser\obj\x86\Release\Parser.pdb
+C:\Users\reza\Documents\Visual Studio 2010\Projects\EggPlantGUI\Parser\bin\Release\Parser.dll
+C:\Users\reza\Documents\Visual Studio 2010\Projects\EggPlantGUI\Parser\bin\Release\Parser.pdb
+C:\Users\reza\Documents\Visual Studio 2010\Projects\EggPlantGUI\Parser\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\reza\Documents\Visual Studio 2010\Projects\EggPlantGUI\Parser\obj\x86\Release\Parser.dll
+C:\Users\reza\Documents\Visual Studio 2010\Projects\EggPlantGUI\Parser\obj\x86\Release\Parser.pdb

@@ -1,0 +1,5 @@
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggplantCore\bin\Release\EggplantCore.dll
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggplantCore\bin\Release\EggplantCore.pdb
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggplantCore\obj\Release\ResolveAssemblyReference.cache
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggplantCore\obj\Release\EggplantCore.dll
+C:\Users\sajol\Documents\Visual Studio 2010\Projects\EggPlantGUI\EggplantCore\obj\Release\EggplantCore.pdb
